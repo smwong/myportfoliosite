@@ -20,11 +20,13 @@
 #aboutme {
   text-align: center;
   color: #5bb4cc;
+  border: solid #5bb4cc;
 }
 
 h1 {
   color: #5bb4cc;
   text-align: center;
+  border: solid #5bb4cc;
 }
 
 p {
